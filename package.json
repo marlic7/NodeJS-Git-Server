@@ -16,7 +16,7 @@
     "commander": "*",
     "git-emit": "0.0.0",
     "event-proxy": "0.0.1",
-    "connect": "~2.9.0"
+    "connect": "~2.14.0"
   },
   "devDependencies": {
     "expect.js": "~0.2.0",
